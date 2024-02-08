@@ -3,7 +3,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills:  REACT / JS / HTML / CSS/JAVASCRIPT/NODE/EXPRESS
+Skills:   HTML/ CSS/JAVASCRIPT/REACT /NODE/EXPRESS/MONGODB/MYSQL
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning REACT.JS 
