@@ -11,7 +11,6 @@
 - 🔭 Currently at **Cybercraft Bangladesh**
 - 🌱 Learning **React.js**
 - 🤝 Open to collaborating on **Open Source Projects**
-- 📧 Reach me at **dalim.kazi@example.com**
 
   <h3 align="center">🌐 Connect with Me</h3>
 
