@@ -9,7 +9,7 @@
 ---
 
 - 🔭 Currently at **Cybercraft Bangladesh**
-- 🌱 Learning **React.js**
+- 🌱 Learning **React Native**
 - 🤝 Open to collaborating on **Open Source Projects**
 
   <h3 align="center">🌐 Connect with Me</h3>
