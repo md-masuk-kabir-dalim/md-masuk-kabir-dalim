@@ -13,6 +13,15 @@
 - 🤝 Open to collaborating on **Open Source Projects**
 - 📧 Reach me at **dalim.kazi@example.com**
 
+  <h3 align="center">🌐 Connect with Me</h3>
+
+<p align="center">
+  <a href="https://github.com/dalim-kazi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/md-masuk-kabir-dalim-b912532a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100056822454515"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://pickaboo-ee19c.web.app/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Website"/></a>
+</p>
+
 ---
 
 <h3 align="center">🚀 Tech Stack</h3>
@@ -48,32 +57,3 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dalim-kazi&theme=radical&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
----
-
-<h3 align="center">🌟 Featured Projects</h3>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/dalim-kazi/content-portal">
-        <img src="https://i.ibb.co/ZN4mVRx/Screenshot-2024-09-01-223755.png" alt="Project 1" width="300"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/dalim-kazi/content-portal-admin">
-        <img src="https://i.ibb.co/Yd2nHtQ/Screenshot-2024-09-02-113050.png" alt="Project 2" width="300"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-<h3 align="center">🌐 Connect with Me</h3>
-
-<p align="center">
-  <a href="https://github.com/dalim-kazi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/md-masuk-kabir-dalim-b912532a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100056822454515"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://pickaboo-ee19c.web.app/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Website"/></a>
-</p>
