@@ -56,12 +56,12 @@
   <tr>
     <td align="center">
       <a href="https://github.com/dalim-kazi/content-portal">
-        <img src="https://i.ibb.co/ZN4mVRx/Screenshot-2024-09-01-223755.png" alt="Project 1" />
+        <img src="https://i.ibb.co/ZN4mVRx/Screenshot-2024-09-01-223755.png" alt="Project 1" width="300"/>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/dalim-kazi/content-portal-admin">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=dalim-kazi&repo=project2&theme=radical" alt="Project 2" />
+        <img src="https://i.ibb.co/Yd2nHtQ/Screenshot-2024-09-02-113050.png" alt="Project 2" width="300"/>
       </a>
     </td>
   </tr>
