@@ -41,7 +41,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dalim-kazi&show_icons=true&theme=radical" alt="GitHub stats" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalim-kazi&layout=compact&theme=radical" alt="Top Languages" width="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalim-kazi&layout=compact&theme=radical" alt="Top Languages" width="220"/>
    <img src="https://streak-stats.demolab.com/?user=dalim-kazi&theme=radical" alt="GitHub Streak" width="300"/>
 </p>
 
