@@ -55,12 +55,12 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/dalim-kazi/project1">
+      <a href="https://github.com/dalim-kazi/content-portal">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=dalim-kazi&repo=project1&theme=radical" alt="Project 1" />
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/dalim-kazi/project2">
+      <a href="https://github.com/dalim-kazi/content-portal-admin">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=dalim-kazi&repo=project2&theme=radical" alt="Project 2" />
       </a>
     </td>
