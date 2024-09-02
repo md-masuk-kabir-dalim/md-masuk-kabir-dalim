@@ -8,17 +8,18 @@
 
 ---
 
-- 🔭 Currently at **Cybercraft Bangladesh**
+- 🔭 Currently at **[Cybercraft Bangladesh](https://nusaiba.com.bd/cybercraft/)**
 - 🌱 Learning **React Native**
 - 🤝 Open to collaborating on **Open Source Projects**
 
-  <h3 align="center">🌐 Connect with Me</h3>
+<h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
   <a href="https://github.com/dalim-kazi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/md-masuk-kabir-dalim-b912532a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.facebook.com/profile.php?id=100056822454515"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://pickaboo-ee19c.web.app/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Website"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -42,9 +43,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dalim-kazi&show_icons=true&theme=radical" alt="GitHub stats" width="300"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalim-kazi&layout=compact&theme=radical" alt="Top Languages" width="220"/>
-   <img src="https://streak-stats.demolab.com/?user=dalim-kazi&theme=radical" alt="GitHub Streak" width="300"/>
+  <img src="https://streak-stats.demolab.com/?user=dalim-kazi&theme=radical" alt="GitHub Streak" width="300"/>
 </p>
-
 
 ---
 
@@ -54,3 +54,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dalim-kazi&theme=radical&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
+---
+
+<h3 align="center">🎯 Pinned Repositories</h3>
+
+<p align="center">
+  <a href="https://github.com/dalim-kazi/repo1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dalim-kazi&repo=repo1&theme=radical" alt="Repo 1" /></a>
+  <a href="https://github.com/dalim-kazi/repo2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dalim-kazi&repo=repo2&theme=radical" alt="Repo 2" /></a>
+  <a href="https://github.com/dalim-kazi/repo3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dalim-kazi&repo=repo3&theme=radical" alt="Repo 3" /></a>
+</p>
