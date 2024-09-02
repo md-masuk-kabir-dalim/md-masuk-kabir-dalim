@@ -77,9 +77,3 @@
   <a href="https://www.facebook.com/profile.php?id=100056822454515"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://pickaboo-ee19c.web.app/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Website"/></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://api.vaunt.dev/v1/github/entities/dalim-kazi/contributions?format=svg&private=true" alt="Vaunt Badge"/>
-</p>
