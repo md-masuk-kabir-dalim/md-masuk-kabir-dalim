@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm MD Masuk Kabir Dalim! 👋</h1>
-<h3 align="center">A Passionate Full Stack Web Developer from Bangladesh</h3>
+<h1 align="center">Hi, I'm MD Masuk Kabir Dalim! 👋</h1>
+<h3 align="center">Full Stack Developer | MERN Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dalim-kazi&label=Profile%20views&color=0e75b6&style=flat" alt="dalim-kazi" />
@@ -8,20 +8,20 @@
 
 ---
 
-- 🔭 I’m currently working at **Cybercraft Bangladesh**
-- 🌱 I’m currently learning **React.js**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: **dalim.kazi@example.com**
+- 🔭 Currently at **Cybercraft Bangladesh**
+- 🌱 Learning **React.js**
+- 🤝 Open to collaborating on **Open Source Projects**
+- 📧 Reach me at **dalim.kazi@example.com**
 
 ---
 
-<h3 align="center">🛠 Tech Stack</h3>
+<h3 align="center">🚀 Tech Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -30,10 +30,10 @@
 
 ---
 
-<h3 align="center">⚡ GitHub Stats</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dalim-kazi&show_icons=true&theme=radical" alt="GitHub stats" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalim-kazi&layout=compact&theme=radical" alt="Top Languages" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dalim-kazi&show_icons=true&theme=radical" alt="GitHub stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalim-kazi&layout=compact&theme=radical" alt="Top Languages" width="300"/>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
 
 ---
 
-<h3 align="center">🏆 GitHub Achievements</h3>
+<h3 align="center">🏆 Achievements</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dalim-kazi&theme=radical&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
@@ -50,7 +50,7 @@
 
 ---
 
-<h3 align="center">🚀 Featured Projects</h3>
+<h3 align="center">🌟 Featured Projects</h3>
 
 <table align="center">
   <tr>
