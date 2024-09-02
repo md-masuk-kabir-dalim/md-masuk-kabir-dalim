@@ -59,7 +59,7 @@
 <h3 align="center">🎯 Pinned Repositories</h3>
 
 <p align="center">
-  <a href="https://github.com/dalim-kazi/repo1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dalim-kazi&repo=repo1&theme=radical" alt="Repo 1" /></a>
+  <a href="https://github.com/dalim-kazi/starbelly-client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dalim-kazi&repo=repo1&theme=radical" alt="Repo 1" /></a>
   <a href="https://github.com/dalim-kazi/repo2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dalim-kazi&repo=repo2&theme=radical" alt="Repo 2" /></a>
   <a href="https://github.com/dalim-kazi/repo3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dalim-kazi&repo=repo3&theme=radical" alt="Repo 3" /></a>
 </p>
