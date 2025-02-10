@@ -14,6 +14,7 @@
 - 📚 Learning **React Native** to expand expertise in mobile development.
 - 🚀 Enthusiastic about **real-time applications, database optimization, and cloud infrastructure**.
 - 🤝 Open to collaborating on **Open Source Projects** and innovative ideas that push boundaries.
+- 🛠️ Passionate about **performance optimization and security best practices**.
 
 <h3 align="center">🌐 Connect with Me</h3>
 
