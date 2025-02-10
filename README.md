@@ -8,11 +8,11 @@
 
 ---
 
-- 🔯 Passionate about building scalable and efficient web applications.
-- 🔧 Currently at **[Cybercraft Bangladesh](https://nusaiba.com.bd/cybercraft/)**
-- 💪 Always exploring new technologies and best practices.
-- 📚 Learning **React Native** to expand mobile development skills.
-- 🤝 Open to collaborating on **Open Source Projects** and exciting new ideas!
+- 🔯 Passionate about building scalable and efficient web applications with modern technologies.
+- 🔧 Currently at **[Cybercraft Bangladesh](https://nusaiba.com.bd/cybercraft/)**, crafting high-performance solutions.
+- 💪 Always exploring new technologies, best practices, and scalable architectures.
+- 📚 Learning **React Native** to expand expertise in mobile development.
+- 🤝 Open to collaborating on **Open Source Projects** and innovative ideas that push boundaries.
 
 <h3 align="center">🌐 Connect with Me</h3>
 
