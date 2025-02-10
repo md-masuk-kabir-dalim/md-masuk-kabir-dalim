@@ -8,9 +8,11 @@
 
 ---
 
-- 🔭 Currently at **[Cybercraft Bangladesh](https://nusaiba.com.bd/cybercraft/)**
-- 🌱 Learning **React Native**
-- 🤝 Open to collaborating on **Open Source Projects**
+- 🔯 Passionate about building scalable and efficient web applications.
+- 🔧 Currently at **[Cybercraft Bangladesh](https://nusaiba.com.bd/cybercraft/)**
+- 💪 Always exploring new technologies and best practices.
+- 📚 Learning **React Native** to expand mobile development skills.
+- 🤝 Open to collaborating on **Open Source Projects** and exciting new ideas!
 
 <h3 align="center">🌐 Connect with Me</h3>
 
