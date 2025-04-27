@@ -2,8 +2,8 @@
 <h3 align="center">Full Stack Developer | MERN Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dalim-kazi&label=Profile%20views&color=0e75b6&style=flat" alt="dalim-kazi" />
-  <img src="https://img.shields.io/github/followers/dalim-kazi?label=Follow&style=social" alt="dalim-kazi" />
+  <img src="https://komarev.com/ghpvc/?username=md-masuk-kabir-dalim&label=Profile%20views&color=0e75b6&style=flat" alt="md-masuk-kabir-dalim" />
+  <img src="https://img.shields.io/github/followers/md-masuk-kabir-dalim?label=Follow&style=social" alt="md-masuk-kabir-dalim" />
 </p>
 
 ---
@@ -20,7 +20,7 @@
 <h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://github.com/dalim-kazi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/md-masuk-kabir-dalim"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/md-masuk-kabir-dalim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.facebook.com/profile.php?id=100056822454515"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://pickaboo-ee19c.web.app/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Website"/></a>
@@ -57,9 +57,9 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dalim-kazi&show_icons=true&theme=radical" alt="GitHub stats" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalim-kazi&layout=compact&theme=radical" alt="Top Languages" width="225"/>
-  <img src="https://streak-stats.demolab.com/?user=dalim-kazi&theme=radical" alt="GitHub Streak" width="310"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=md-masuk-kabir-dalim&show_icons=true&theme=radical" alt="GitHub stats" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-masuk-kabir-dalim&layout=compact&theme=radical" alt="Top Languages" width="225"/>
+  <img src="https://streak-stats.demolab.com/?user=md-masuk-kabir-dalim&theme=radical" alt="GitHub Streak" width="310"/>
 </p>
 
 ---
@@ -67,5 +67,5 @@
 <h3 align="center">🏆 Achievements</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dalim-kazi&theme=radical&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=md-masuk-kabir-dalim&theme=radical&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
