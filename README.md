@@ -1,158 +1,89 @@
-<h1 align="center">MD. Masuk Kabir Dalim</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm MD Masuk Kabir Dalim</h1>
+<h3 align="center">Full Stack Developer | Scalable Backend Engineer | Real-Time Systems Specialist</h3>
 
 <p align="center">
-  📧 masukkabir.dev@gmail.com |
-  📞 +8801332349584 <br/>
-  📍 Dhaka, Rumpura, Banasree <br/>
-  <a href="https://github.com/md-masuk-kabir-dalim">GitHub</a> |
-  <a href="https://www.linkedin.com/in/md-masuk-kabir-dalim/">LinkedIn</a> |
-  <a href="https://pickaboo-ee19c.web.app/">Portfolio</a>
+  <img src="https://komarev.com/ghpvc/?username=md-masuk-kabir-dalim&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/md-masuk-kabir-dalim?label=Follow&style=social" />
 </p>
 
 ---
 
-## 🎯 Career Objective
+## 👨‍💻 About Me
 
-Dynamic Full Stack Developer with 1.8+ years of experience building secure, scalable, and high-performance web applications using modern technologies including JavaScript, TypeScript, React.js, and Node.js.  
-
-Experienced in backend architecture using Express.js, Prisma ORM, Redis, GraphQL, WebSocket, and BullMQ.  
-
-Strong commitment to continuous learning with growing expertise in Docker and React Native. Passionate about delivering exceptional user experiences through scalable system design and collaborative development.
+- 💼 Full Stack Developer with **1.8+ years of professional experience**
+- 🏢 Currently working at **SM Technology**
+- 🧠 Former Full Stack Developer at **CyberCraft Bangladesh**
+- 🔥 Specialized in **scalable backend architecture & real-time applications**
+- 🚀 Built production-grade systems using **WebSocket, SSE, Redis & BullMQ**
+- 💳 Integrated secure payment systems: **Stripe, SSLCOMMERZ, TapPay, Tazapay**
+- 🌍 Experienced in VPS & cloud deployments (DigitalOcean, AWS EC2, Hostinger)
+- 📈 Strong focus on performance optimization, SEO & security best practices
+- 📱 Currently expanding expertise in **React Native & Docker**
+- 🤝 Open to collaborating on Open Source & impactful engineering projects
 
 ---
 
-## 🛠 Technical Skills
+## 🌐 Connect With Me
 
-### 💻 Frontend
-- JavaScript
-- TypeScript
-- React.js
-- Next.js
-- Redux
-- RTK Query
+<p align="center">
+  <a href="https://github.com/md-masuk-kabir-dalim"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/md-masuk-kabir-dalim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:masukkabir.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://pickaboo-ee19c.web.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### 🚀 Frontend
+JavaScript • TypeScript • React.js • Next.js • Redux • RTK Query  
 
 ### ⚙ Backend
-- Node.js
-- Express.js
-- GraphQL
-- WebSocket
-- Socket.io
-- Server-Sent Events (SSE)
-- JWT Authentication
-- BullMQ
+Node.js • Express.js • GraphQL • REST API  
+WebSocket • Socket.io • SSE  
+JWT Authentication • BullMQ  
 
 ### 🗄 Database
-- MongoDB
-- Prisma ORM
-- Mongoose
-- MySQL
+MongoDB • Prisma ORM • Mongoose • MySQL • PostgreSQL  
 
-### ☁ Hosting & Deployment
-- AWS EC2
-- DigitalOcean VPS
-- Render
-- Vercel
-- Netlify
-- Firebase
-- Hostinger
-- Nginx
-- PM2
-- SSL (Let's Encrypt)
-- Namecheap (Domain Management)
+### ☁ Hosting & DevOps
+AWS EC2 • DigitalOcean • Render • Vercel • Netlify  
+Firebase • Nginx • PM2 • SSL (Let's Encrypt)  
 
 ### 🎨 UI & Styling
-- Tailwind CSS
-- Bootstrap
-- Material UI
-- Styled Components
-
-### 🧰 Tools
-- Git & GitHub
-- VS Code
-- npm & Yarn
-- Chrome DevTools
+Tailwind CSS • Bootstrap • Material UI • Styled Components  
 
 ---
 
-## 💼 Professional Experience
+## 🏗 Highlight Projects & Systems
 
-### 🔹 Full Stack Developer  
-**SM Technology**  
-📅 01/2025 – Present  
-
-**Key Contributions:**
-
-- Built scalable RESTful APIs using Node.js, Express.js, and Prisma ORM.
-- Integrated secure payment systems including Stripe, Tazapay, TapPay, and SSLCOMMERZ.
-- Developed a real-time Dubai parking slot tracking application with:
-  - WebSocket-based live location tracking
-  - SSE & Firebase Push Notifications
-  - BullMQ-based job scheduling
-  - Automated timed notification system
-  - Stripe & RTA SMS payment integration
-- Integrated third-party APIs (OMDb, Open Library, ISBNdb, RAWG).
-- Implemented system communication using Nodemailer, Brevo, and Twilio.
-- Managed VPS and cloud deployments using DigitalOcean, Hostinger, Nginx, PM2, and SSL.
-- Worked in Agile teams (4–10 members), consistently delivering sprint goals on time.
-
----
-
-### 🔹 Full Stack Developer  
-**CyberCraft Bangladesh**  
-📅 08/2024 – 12/2024  
-
-**Key Contributions:**
-
-- Developed RESTful APIs using Node.js, Express.js, and Mongoose.
-- Built SEO-optimized web applications with:
-  - Meta tags, canonical URLs
-  - Open Graph & Twitter Cards
-  - Schema markup
-  - Sitemap & robots.txt
-- Validated SEO with SEOquake, schema validator, PageSpeed Insights, and GTmetrix.
-- Integrated GPT-based AI systems to auto-generate blogs, reviews, and product specifications.
-- Delivered sprint goals within Agile teams (3–7 members).
-
----
-
-### 🔹 Full Stack Developer Intern  
-**CyberCraft Bangladesh**  
-📅 02/2024 – 08/2024  
-
-**Key Contributions:**
-
-- Integrated RESTful APIs in Next.js using SSR & SSG.
-- Used Redux for state management.
-- Built high-performance SEO-friendly frontend architectures.
-- Worked in Agile environment with timely sprint delivery.
-
----
-
-## 🎓 Education
-
-**Prime University**  
-B.Sc. in Computer Science & Engineering  
-Expected Graduation: 2029  
-(Currently Running – 1st Semester)
-
----
-
-## 🚀 Core Strengths
-
-✔ Scalable Backend Architecture  
-✔ Real-Time System Development  
-✔ Secure Payment Integration  
-✔ Database Optimization  
-✔ Cloud & VPS Deployment  
-✔ SEO & Performance Optimization  
-✔ Clean Code & Design Patterns  
+✔ Real-Time Dubai Parking Slot Tracking System  
+✔ Live Location Tracking with WebSocket  
+✔ Timed Notification System (SSE + Firebase Push)  
+✔ Automated Payment & Wallet Systems  
+✔ GPT-Powered Blog & Content Automation  
+✔ SEO-Optimized High Performance Websites  
+✔ Microservice-Ready Backend Architectures  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-masuk-kabir-dalim&show_icons=true&theme=radical&hide_border=true" width="320"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-masuk-kabir-dalim&layout=compact&theme=radical&hide_border=true" width="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=md-masuk-kabir-dalim&show_icons=true&theme=radical&hide_border=true" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-masuk-kabir-dalim&layout=compact&theme=radical&hide_border=true" width="220"/>
+  <img src="https://streak-stats.demolab.com/?user=md-masuk-kabir-dalim&theme=radical&hide_border=true" width="300"/>
 </p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=md-masuk-kabir-dalim&theme=radical&no-bg=true&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+⭐ “Building scalable systems that solve real-world problems through clean architecture and modern technologies.”
