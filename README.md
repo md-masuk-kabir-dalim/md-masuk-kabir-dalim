@@ -1,71 +1,158 @@
-<h1 align="center">Hi, I'm MD Masuk Kabir Dalim! 👋</h1>
-<h3 align="center">Full Stack Developer | MERN Enthusiast</h3>
+<h1 align="center">MD. Masuk Kabir Dalim</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=md-masuk-kabir-dalim&label=Profile%20views&color=0e75b6&style=flat" alt="md-masuk-kabir-dalim" />
-  <img src="https://img.shields.io/github/followers/md-masuk-kabir-dalim?label=Follow&style=social" alt="md-masuk-kabir-dalim" />
+  📧 masukkabir.dev@gmail.com |
+  📞 +8801332349584 <br/>
+  📍 Dhaka, Rumpura, Banasree <br/>
+  <a href="https://github.com/md-masuk-kabir-dalim">GitHub</a> |
+  <a href="https://www.linkedin.com/in/md-masuk-kabir-dalim/">LinkedIn</a> |
+  <a href="https://pickaboo-ee19c.web.app/">Portfolio</a>
 </p>
 
 ---
 
-- 🔯 Passionate about building scalable and efficient web applications with modern technologies.
-- 🔧 Currently at **[Cybercraft Bangladesh](https://nusaiba.com.bd/cybercraft/)**, crafting high-performance solutions.
-- 💪 Always exploring new technologies, best practices, and scalable architectures.
-- 📚 Learning **React Native** to expand expertise in mobile development.
-- 🚀 Enthusiastic about **real-time applications, database optimization, and cloud infrastructure**.
-- 🤝 Open to collaborating on **Open Source Projects** and innovative ideas that push boundaries.
-- 🔄 Advocating **clean code, design patterns**.
-- 🛠️ Passionate about **performance optimization, SEO-friendly development, and security best practices**.
+## 🎯 Career Objective
 
-<h3 align="center">🌐 Connect with Me</h3>
+Dynamic Full Stack Developer with 1.8+ years of experience building secure, scalable, and high-performance web applications using modern technologies including JavaScript, TypeScript, React.js, and Node.js.  
 
-<p align="center">
-  <a href="https://github.com/md-masuk-kabir-dalim"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/md-masuk-kabir-dalim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100056822454515"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://pickaboo-ee19c.web.app/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Website"/></a>
-  <a href="mailto:masukkabir.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+Experienced in backend architecture using Express.js, Prisma ORM, Redis, GraphQL, WebSocket, and BullMQ.  
+
+Strong commitment to continuous learning with growing expertise in Docker and React Native. Passionate about delivering exceptional user experiences through scalable system design and collaborative development.
 
 ---
 
-<h3 align="center">🚀 Tech Stack</h3>
+## 🛠 Technical Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Redux.js-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="socket.io"/>
-  <img src="https://img.shields.io/badge/WebSocket-4DB6AC?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSocket"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-</p>
+### 💻 Frontend
+- JavaScript
+- TypeScript
+- React.js
+- Next.js
+- Redux
+- RTK Query
+
+### ⚙ Backend
+- Node.js
+- Express.js
+- GraphQL
+- WebSocket
+- Socket.io
+- Server-Sent Events (SSE)
+- JWT Authentication
+- BullMQ
+
+### 🗄 Database
+- MongoDB
+- Prisma ORM
+- Mongoose
+- MySQL
+
+### ☁ Hosting & Deployment
+- AWS EC2
+- DigitalOcean VPS
+- Render
+- Vercel
+- Netlify
+- Firebase
+- Hostinger
+- Nginx
+- PM2
+- SSL (Let's Encrypt)
+- Namecheap (Domain Management)
+
+### 🎨 UI & Styling
+- Tailwind CSS
+- Bootstrap
+- Material UI
+- Styled Components
+
+### 🧰 Tools
+- Git & GitHub
+- VS Code
+- npm & Yarn
+- Chrome DevTools
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-masuk-kabir-dalim&show_icons=true&theme=radical" alt="GitHub stats" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-masuk-kabir-dalim&layout=compact&theme=radical" alt="Top Languages" width="225"/>
-  <img src="https://streak-stats.demolab.com/?user=md-masuk-kabir-dalim&theme=radical" alt="GitHub Streak" width="310"/>
-</p>
+## 💼 Professional Experience
+
+### 🔹 Full Stack Developer  
+**SM Technology**  
+📅 01/2025 – Present  
+
+**Key Contributions:**
+
+- Built scalable RESTful APIs using Node.js, Express.js, and Prisma ORM.
+- Integrated secure payment systems including Stripe, Tazapay, TapPay, and SSLCOMMERZ.
+- Developed a real-time Dubai parking slot tracking application with:
+  - WebSocket-based live location tracking
+  - SSE & Firebase Push Notifications
+  - BullMQ-based job scheduling
+  - Automated timed notification system
+  - Stripe & RTA SMS payment integration
+- Integrated third-party APIs (OMDb, Open Library, ISBNdb, RAWG).
+- Implemented system communication using Nodemailer, Brevo, and Twilio.
+- Managed VPS and cloud deployments using DigitalOcean, Hostinger, Nginx, PM2, and SSL.
+- Worked in Agile teams (4–10 members), consistently delivering sprint goals on time.
 
 ---
 
-<h3 align="center">🏆 Achievements</h3>
+### 🔹 Full Stack Developer  
+**CyberCraft Bangladesh**  
+📅 08/2024 – 12/2024  
+
+**Key Contributions:**
+
+- Developed RESTful APIs using Node.js, Express.js, and Mongoose.
+- Built SEO-optimized web applications with:
+  - Meta tags, canonical URLs
+  - Open Graph & Twitter Cards
+  - Schema markup
+  - Sitemap & robots.txt
+- Validated SEO with SEOquake, schema validator, PageSpeed Insights, and GTmetrix.
+- Integrated GPT-based AI systems to auto-generate blogs, reviews, and product specifications.
+- Delivered sprint goals within Agile teams (3–7 members).
+
+---
+
+### 🔹 Full Stack Developer Intern  
+**CyberCraft Bangladesh**  
+📅 02/2024 – 08/2024  
+
+**Key Contributions:**
+
+- Integrated RESTful APIs in Next.js using SSR & SSG.
+- Used Redux for state management.
+- Built high-performance SEO-friendly frontend architectures.
+- Worked in Agile environment with timely sprint delivery.
+
+---
+
+## 🎓 Education
+
+**Prime University**  
+B.Sc. in Computer Science & Engineering  
+Expected Graduation: 2029  
+(Currently Running – 1st Semester)
+
+---
+
+## 🚀 Core Strengths
+
+✔ Scalable Backend Architecture  
+✔ Real-Time System Development  
+✔ Secure Payment Integration  
+✔ Database Optimization  
+✔ Cloud & VPS Deployment  
+✔ SEO & Performance Optimization  
+✔ Clean Code & Design Patterns  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=md-masuk-kabir-dalim&theme=radical&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=md-masuk-kabir-dalim&show_icons=true&theme=radical&hide_border=true" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-masuk-kabir-dalim&layout=compact&theme=radical&hide_border=true" width="250"/>
 </p>
