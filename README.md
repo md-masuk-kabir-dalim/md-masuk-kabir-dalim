@@ -9,7 +9,7 @@
 ---
 
 - 🔯 Passionate about building **scalable, efficient, and modern web applications**.  
-- 🔧 Currently at **[Cybercraft Bangladesh](https://nusaiba.com.bd/cybercraft/)**, delivering high-performance solutions.  
+- 🔧 Currently at **[Labfry Teachology](https://dinmajur.com/)**, delivering high-performance solutions.  
 - 💪 Continuously exploring **new technologies, best practices, and scalable architectures**.  
 - 📚 Learning **React Native** to expand mobile development expertise.  
 - 🚀 Enthusiastic about **real-time systems, database optimization, and cloud infrastructure**.  
