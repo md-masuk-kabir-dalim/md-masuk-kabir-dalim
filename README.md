@@ -97,11 +97,9 @@
 </p>
 ---
 
-<h3 align="center">🏆 Achievements</h3>
+### 🏆 Achievements
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/md-masuk-kabir-dalim?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/forks/md-masuk-kabir-dalim?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Forks" />
-  <img src="https://img.shields.io/github/issues/md-masuk-kabir-dalim?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Issues" />
-  <img src="https://img.shields.io/github/contributors/md-masuk-kabir-dalim?style=for-the-badge&logo=github&logoColor=white" alt="Contributors" />
-</p>
+[![GitHub Stars](https://img.shields.io/github/stars/md-masuk-kabir-dalim?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-masuk-kabir-dalim/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/md-masuk-kabir-dalim?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-masuk-kabir-dalim/network)
+[![GitHub Issues](https://img.shields.io/github/issues/md-masuk-kabir-dalim?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-masuk-kabir-dalim/issues)
+[![GitHub Contributors](https://img.shields.io/github/contributors/md-masuk-kabir-dalim?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-masuk-kabir-dalim/graphs/contributors)
