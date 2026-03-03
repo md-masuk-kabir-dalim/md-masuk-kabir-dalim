@@ -90,15 +90,7 @@
 </p>
 
 ---
-
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-masuk-kabir-dalim&show_icons=true&theme=radical" alt="GitHub stats" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-masuk-kabir-dalim&layout=compact&theme=radical" alt="Top Languages" width="225"/>
-  <img src="https://streak-stats.demolab.com/?user=md-masuk-kabir-dalim&theme=radical" alt="GitHub Streak" width="310"/>
-</p>
-
-<h3 align="center">📊 GitHub Stats</h3>
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=md-masuk-kabir-dalim&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=md-masuk-kabir-dalim&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=md-masuk-kabir-dalim&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
