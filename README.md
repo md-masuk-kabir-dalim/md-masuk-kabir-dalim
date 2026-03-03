@@ -52,6 +52,7 @@
 <img src="https://img.shields.io/badge/SSE-FF6F00?style=for-the-badge" alt="SSE"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jwt&logoColor=white" alt="JWT"/>
 <img src="https://img.shields.io/badge/BullMQ-007ACC?style=for-the-badge" alt="BullMQ"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 
 <!-- Database -->
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
