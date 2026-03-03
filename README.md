@@ -105,5 +105,5 @@
 ### 🏆 Achievements
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/12344862/182033658-e05f3fe8-ba44-4469-a082-99af2697d641.png" alt="GitHub Achievements" width="400" height="200" />
+  <img src="https://user-images.githubusercontent.com/12344862/182033658-e05f3fe8-ba44-4469-a082-99af2697d641.png" alt="GitHub Achievements" width="300" height="150" />
 </p>
