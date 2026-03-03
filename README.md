@@ -99,6 +99,6 @@
 
 <h3 align="center">🏆 Achievements</h3>
 <p align="center">
- <img src="https://user-images.githubusercontent.com/12344862/182033658-e05f3fe8-ba44-4469-a082-99af2697d641.png" alt="GitHub Achievements" width="300" height="150" />
+ <img src="https://user-images.githubusercontent.com/12344862/182033658-e05f3fe8-ba44-4469-a082-99af2697d641.png" alt="GitHub Achievements" width="1000" height="150" />
 </p>
 
