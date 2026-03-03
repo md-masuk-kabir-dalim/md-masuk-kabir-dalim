@@ -95,10 +95,11 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=md-masuk-kabir-dalim&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="225"/>
   <img src="https://streak-stats.demolab.com/?user=md-masuk-kabir-dalim&theme=radical&hide_border=true" alt="GitHub Streak" width="310"/>
 </p>
+
 ---
 
 <h3 align="center">🏆 Achievements</h3>
 <p align="center">
- <img src="https://user-images.githubusercontent.com/12344862/182033658-e05f3fe8-ba44-4469-a082-99af2697d641.png" alt="GitHub Achievements" width="450" height="200" />
+ <img src="https://user-images.githubusercontent.com/12344862/182033658-e05f3fe8-ba44-4469-a082-99af2697d641.png" alt="GitHub Achievements" width="400" height="150" />
 </p>
 
