@@ -97,9 +97,8 @@
 </p>
 ---
 
-### 🏆 Achievements
+<h3 align="center">🏆 Achievements</h3>
 
-[![GitHub Stars](https://img.shields.io/github/stars/md-masuk-kabir-dalim?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-masuk-kabir-dalim/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/md-masuk-kabir-dalim?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-masuk-kabir-dalim/network)
-[![GitHub Issues](https://img.shields.io/github/issues/md-masuk-kabir-dalim?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-masuk-kabir-dalim/issues)
-[![GitHub Contributors](https://img.shields.io/github/contributors/md-masuk-kabir-dalim?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-masuk-kabir-dalim/graphs/contributors)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=md-masuk-kabir-dalim&theme=radical" alt="GitHub Trophies" />
+</p>
