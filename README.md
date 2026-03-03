@@ -90,7 +90,7 @@
 </p>
 
 ---
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">🚀 Contribution & Activity Overview</h3>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=md-masuk-kabir-dalim&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" width="300"/>
