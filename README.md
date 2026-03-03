@@ -104,5 +104,5 @@
 <h3 align="center">🏆 Achievements</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=md-masuk-kabir-dalim&theme=radical" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=md-masuk-kabir-dalim&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
