@@ -8,14 +8,14 @@
 
 ---
 
-- 🔯 Passionate about building **scalable, efficient, and modern web applications**.  
-- 🔧 Currently at **[Labfry Teachology](https://dinmajur.com/)**, delivering high-performance solutions.  
-- 💪 Continuously exploring **new technologies, best practices, and scalable architectures**.  
-- 📚 Learning **React Native** to expand mobile development expertise.  
-- 🚀 Enthusiastic about **real-time systems, database optimization, and cloud infrastructure**.  
-- 🤝 Open to collaborating on **open-source projects and innovative tech solutions**.  
-- 🔄 Advocate of **clean code, design patterns, and maintainable architectures**.  
-- 🛠️ Focused on **performance optimization, SEO-friendly development, and security best practices**.
+- 🔯 Passionate about building **scalable, high-performance, and production-ready systems**.  
+- 🔧 Currently working at **[Labfry Teachology](https://dinmajur.com/)**, delivering enterprise-grade solutions.  
+- 💪 Constantly exploring **modern architectures and distributed systems**.  
+- 🏗️ Currently mastering **Microservices Architecture (NestJS, Redis, Kafka, Docker)**.  
+- 🚀 Strong interest in **real-time systems, database optimization, and cloud-native infrastructure**.  
+- 🤝 Open to collaborating on **innovative projects and impactful open-source contributions**.  
+- 🔄 Advocate of **clean code, SOLID principles, and maintainable architecture patterns**.  
+- 🛡 Focused on **performance tuning, scalability, and security-first development**.
 
 <h3 align="center">🌐 Connect with Me</h3>
 
