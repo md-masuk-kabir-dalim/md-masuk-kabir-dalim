@@ -96,11 +96,12 @@
   <img src="https://streak-stats.demolab.com/?user=md-masuk-kabir-dalim&theme=radical" alt="GitHub Streak" width="310"/>
 </p>
 ---
+
 <h3 align="center">🏆 Achievements</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/md-masuk-kabir-dalim?style=for-the-badge" alt="GitHub Stars" />
-  <img src="https://img.shields.io/github/forks/md-masuk-kabir-dalim?style=for-the-badge" alt="GitHub Forks" />
-  <img src="https://img.shields.io/github/issues/md-masuk-kabir-dalim?style=for-the-badge" alt="GitHub Issues" />
-  <img src="https://img.shields.io/github/contributors/md-masuk-kabir-dalim?style=for-the-badge" alt="Contributors" />
+  <img src="https://img.shields.io/github/stars/md-masuk-kabir-dalim?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/forks/md-masuk-kabir-dalim?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Forks" />
+  <img src="https://img.shields.io/github/issues/md-masuk-kabir-dalim?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Issues" />
+  <img src="https://img.shields.io/github/contributors/md-masuk-kabir-dalim?style=for-the-badge&logo=github&logoColor=white" alt="Contributors" />
 </p>
