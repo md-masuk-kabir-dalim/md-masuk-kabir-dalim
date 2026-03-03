@@ -101,6 +101,11 @@
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=md-masuk-kabir-dalim&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=md-masuk-kabir-dalim&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=md-masuk-kabir-dalim&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <h3 align="center">🏆 Achievements</h3>
 
 <p align="center">
