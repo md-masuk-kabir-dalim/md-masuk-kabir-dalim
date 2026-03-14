@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm MD Masuk Kabir Dalim! 👋</h1>
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hi,+I'm+MD+Masuk+Kabir+Dalim!+👋)
 <h3 align="center">Full Stack Developer | MERN Enthusiast</h3>
 
 <p align="center">
