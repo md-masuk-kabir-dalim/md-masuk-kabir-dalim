@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=051015&width=435&lines=Hi%2C+I'm+MD+Masuk+Kabir+Dalim)](https://git.io/typing-svg)
-
+<h1 align="center">Hi, I'm MD Masuk Kabir Dalim! 👋</h1>
 <h3 align="center">Full Stack Developer | MERN Enthusiast</h3>
 
 <p align="center">
