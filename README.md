@@ -1,11 +1,9 @@
-<h1 align="center">Hi, I'm MD Masuk Kabir Dalim! 👋</h1>
-
 <p align="center">
-  <h1>Hi, I'm</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=051015&width=435&lines=MD+Masuk+Kabir+Dalim!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=051015&width=435&lines=Hi%2C+I'm+MD+Masuk+Kabir+Dalim" alt="Typing SVG" />
   </a>
 </p>
+
 <h3 align="center">Full Stack Developer | MERN Enthusiast</h3>
 
 <p align="center">
